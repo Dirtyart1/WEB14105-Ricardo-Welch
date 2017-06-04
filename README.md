@@ -11,7 +11,7 @@
 
 
 #### Blog post
-- [Ideas for Sharing is caring](http://fourthfloor.raveweb.net/rwelch/2017/01/25/sharing-is-caring/)
+- [Sharing is caring](http://fourthfloor.raveweb.net/rwelch/2017/01/25/sharing-is-caring/)
 - [JavaScript for cats](http://fourthfloor.raveweb.net/rwelch/2017/01/25/java-script-for-cats/)
 - [Make a drawing to illustrate how the Web works](http://fourthfloor.raveweb.net/rwelch/2017/06/01/make-a-drawing-to-illustrate-how-the-web-works/)
 - [Get the Idea: capturing attention](http://fourthfloor.raveweb.net/rwelch/2017/06/01/get-the-idea-capturing-attention/)
