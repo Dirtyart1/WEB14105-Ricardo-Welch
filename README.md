@@ -24,7 +24,7 @@ https://docs.google.com/document/d/1Q_9C8CLQsS_G6Rxg_gpUwbk80o77YFWFbbNwxj9otmo/
 
 
 ### Sharing is caring site
-http://dirtyart1.github.io/sharing-is-caring/
+http://dirtyart1.github.io/sharing/
 
 
 #### Blog post
