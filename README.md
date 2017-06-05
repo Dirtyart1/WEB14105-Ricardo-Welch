@@ -6,7 +6,7 @@
 
 #### Story
 #### Reasearch
-[https://docs.google.com/a/students.rave.ac.uk/document/d/1L1FftKQEpI4OUHTLnNX2wr_eN6gs6ZovWh3bmm6qiEI/edit?usp=sharing]
+https://docs.google.com/a/students.rave.ac.uk/document/d/1L1FftKQEpI4OUHTLnNX2wr_eN6gs6ZovWh3bmm6qiEI/edit?usp=sharing
 #### Wire frames
 
 
