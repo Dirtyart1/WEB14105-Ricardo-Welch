@@ -19,8 +19,8 @@ https://docs.google.com/document/d/1Q_9C8CLQsS_G6Rxg_gpUwbk80o77YFWFbbNwxj9otmo/
 
 #### Wire frames
 
- ![wire-frame-1](wire-frame-1.jpg "wire-frame-1")
- ![wire-frame-2](wire-frame-2.jpg "wire-frame-2")
+ ![wire-frame-1](https://github.com/Dirtyart1/WEB14105-Ricardo-Welch/blob/master/wire%20frame%201.jpg)
+ ![wire-frame-2](https://github.com/Dirtyart1/WEB14105-Ricardo-Welch/blob/master/wire%20frame%201.jpg
 
 
 ### Sharing is caring site
