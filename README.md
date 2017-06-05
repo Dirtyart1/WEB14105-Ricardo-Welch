@@ -5,6 +5,7 @@
 #### Course: WEB14105
 
 ### Story
+my sharing is caring project is about the destruction of skateparks and the affects it has on the community if th
 
 
 ### Formative video 
