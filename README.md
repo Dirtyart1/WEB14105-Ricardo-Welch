@@ -41,4 +41,4 @@ https://dirtyart1.github.io/Sharing/
 - [10 common typography mistakes](http://fourthfloor.raveweb.net/rwelch/2017/06/04/10-common-typography-mistakes/)
 - [Web design myths](http://fourthfloor.raveweb.net/rwelch/2017/06/04/web-design-myths-design-has-to-be-original/)
 - [Destroy the Web](http://fourthfloor.raveweb.net/rwelch/2017/06/04/destroy-the-web/)
-- [What did I learn?]()
+- [What did I learn?](http://fourthfloor.raveweb.net/rwelch/2017/06/05/what-did-i-learn/)
