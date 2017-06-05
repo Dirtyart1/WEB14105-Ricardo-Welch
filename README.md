@@ -1,8 +1,8 @@
 # WEB14105-Ricardo-Welch
 
-#### Name:Ricardo Welch
-#### Student number:96229515
-#### Course:WEB14105
+#### Name: Ricardo Welch
+#### Student number: 96229515
+#### Course: WEB14105
 
 ### Story
 
